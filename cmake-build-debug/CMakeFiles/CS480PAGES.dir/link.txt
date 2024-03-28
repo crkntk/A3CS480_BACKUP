@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/CS480PAGES.dir/main.cpp.o CMakeFiles/CS480PAGES.dir/Map.cpp.o CMakeFiles/CS480PAGES.dir/LoadedPage.cpp.o CMakeFiles/CS480PAGES.dir/PageReplacement.cpp.o -o CS480PAGES 

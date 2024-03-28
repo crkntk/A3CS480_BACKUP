@@ -1,0 +1,3 @@
+/mnt/c/Users/astro/Desktop/CS_480_Pages/CS480PAGES/cmake-build-debug/CMakeFiles/CS480PAGES.dir
+/mnt/c/Users/astro/Desktop/CS_480_Pages/CS480PAGES/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/astro/Desktop/CS_480_Pages/CS480PAGES/cmake-build-debug/CMakeFiles/rebuild_cache.dir

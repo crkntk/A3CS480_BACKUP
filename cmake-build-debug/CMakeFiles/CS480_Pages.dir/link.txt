@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/CS480_Pages.dir/main.cpp.o -o CS480_Pages 
