@@ -1,5 +1,6 @@
 # CS480_Pages
  Sample outputs are given in sample_output.txt
+ 
 Demand Paging is a virtual memory management mechanism that would only load and map
 pages from persistent storage to memory when needed, i.e., when a process tries to access a
 page that is not residing in the physical memory (which would result in a page fault). The OS will
